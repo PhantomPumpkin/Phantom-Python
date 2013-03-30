@@ -94,5 +94,5 @@ frame.add_button("Look for Enemy", look_for_enemy, 100)
 
 # frame start
 frame.start()
-init()    
+init()
 
