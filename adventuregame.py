@@ -45,7 +45,7 @@ def random_enemy():
 def en_num_to_name():
     global enemy_type
     if enemy_type == 1:
-        enemy_type = "Org"
+        enemy_type = "Orc"
     elif enemy_type == 2:
         enemy_type = "Human"
     else:
